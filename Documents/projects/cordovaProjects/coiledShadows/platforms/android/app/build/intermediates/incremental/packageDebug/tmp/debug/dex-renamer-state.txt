@@ -1,0 +1,13 @@
+#Thu Oct 28 21:29:21 TRT 2021
+path.3=1/classes.dex
+path.2=0/classes.dex
+path.1=0/classes.dex
+path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.3=/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
+base.2=/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.1=/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/build/intermediates/dex/debug/mergeLibDexDebug/0/classes.dex
+base.0=/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex

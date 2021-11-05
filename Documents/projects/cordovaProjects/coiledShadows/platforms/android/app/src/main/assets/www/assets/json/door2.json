@@ -1,0 +1,32 @@
+{ "frames": {
+   "door 0.ase": {
+    "frame": { "x": 0, "y": 0, "w": 25, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 25, "h": 34 },
+    "sourceSize": { "w": 25, "h": 34 },
+    "duration": 100
+   },
+   "door 1.ase": {
+    "frame": { "x": 25, "y": 0, "w": 25, "h": 34 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 25, "h": 34 },
+    "sourceSize": { "w": 25, "h": 34 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "https://github.com/LibreSprite/LibreSprite/",
+  "version": "1.0-dev",
+  "image": "/home/furkan/Documents/projects/cordovaProjects/androidvania/www/assets/img/door2.png",
+  "format": "RGBA8888",
+  "size": { "w": 50, "h": 34 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ]
+ }
+}

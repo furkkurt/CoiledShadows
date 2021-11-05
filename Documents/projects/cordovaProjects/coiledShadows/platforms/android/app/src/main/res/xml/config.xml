@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.DAG.coiledShadows" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Coiled Shadows</name>
+    <description>
+        A simple platformer game inspired from retro platformers. If everything goes well this will be a serie of 3 to 5 games. Each of them will have an opening scene and a boss fight. The game has a short playing time, it will probably take 1 or 2 hours to finish, I hope it will be an hour of fun. This is my first actual game with a graphical interface so it would help alot if you write a review on what botherd you while playing and what would you want to see on upcoming projects.
+    </description>
+    <author email="dev@cordova.apache.org" href="http://cordova.io">
+        Apache Cordova Team
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <allow-intent href="market:*" />
+    <preference name="loglevel" value="DEBUG" />
+</widget>

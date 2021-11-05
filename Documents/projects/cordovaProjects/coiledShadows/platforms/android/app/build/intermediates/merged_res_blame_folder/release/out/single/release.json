@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/build/intermediates/res/merged/release/mipmap-hdpi-v26_ic_launcher_background.png.flat",
+        "source": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/src/main/res/mipmap-hdpi-v26/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi-v26_ic_launcher_background.png.flat",
+        "source": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/src/main/res/mipmap-xxxhdpi-v26/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/build/intermediates/res/merged/release/mipmap-ldpi-v26_ic_launcher_background.png.flat",
+        "source": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/src/main/res/mipmap-ldpi-v26/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/build/intermediates/res/merged/release/mipmap-mdpi-v26_ic_launcher_background.png.flat",
+        "source": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/src/main/res/mipmap-mdpi-v26/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/build/intermediates/res/merged/release/xml_config.xml.flat",
+        "source": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/src/main/res/xml/config.xml"
+    },
+    {
+        "merged": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi-v26_ic_launcher_background.png.flat",
+        "source": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/src/main/res/mipmap-xxhdpi-v26/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/build/intermediates/res/merged/release/mipmap-xhdpi-v26_ic_launcher_background.png.flat",
+        "source": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/src/main/res/mipmap-xhdpi-v26/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/furkan/Documents/projects/cordovaProjects/deneme7/platforms/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]

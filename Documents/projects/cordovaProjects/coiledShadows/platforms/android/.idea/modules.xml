@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coiled_Shadows.iml" filepath="$PROJECT_DIR$/.idea/modules/Coiled_Shadows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CordovaLib/Coiled_Shadows.CordovaLib.iml" filepath="$PROJECT_DIR$/.idea/modules/CordovaLib/Coiled_Shadows.CordovaLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Coiled_Shadows.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Coiled_Shadows.app.iml" />
+    </modules>
+  </component>
+</project>
